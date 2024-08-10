@@ -15,10 +15,12 @@
     flex-direction: row;
     justify-content: start;
     cursor: pointer;
-    margin-top: 10px;
+    margin-top: 15px;
     margin-bottom: 15px;
     margin-left: 15px;
     margin-right: 15px;
+    position: relative;
+    right: 20px;
 }
 
 .main-container{
@@ -26,10 +28,7 @@
     flex-direction: row;
     justify-content: space-evenly;
    border: solid;
-   margin-top: 50px ;
-   margin-bottom: 50px;
-   margin-right: 40px;
-   margin-left: 40px;
+  
    background-color: #E3E1D9
 
 }
@@ -40,7 +39,7 @@
     font-family:cursive;
     font-size: 60px;
     text-align: center;
-    margin: 40px auto;
+    margin:auto;
    
 }
 
@@ -121,10 +120,10 @@ transition: 1sec;}
     cursor: pointer;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 40px;
         }
-        .menu-card-para{
+    .menu-card-para{
             font-size: 15px;
         }
-        .arrow-left{
+    .arrow-left{
             position: relative;
             left: 1390px;
          
