@@ -1,0 +1,135 @@
+.profile-container{
+   
+    width: 60px;
+    background-color: #d3d3ce;
+   
+}
+.container{
+    display: flex;
+   
+
+}
+.mainpage-icons{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   border: solid;
+   margin-top: 50px ;
+   margin-bottom: 50px;
+   margin-right: 40px;
+   margin-left: 40px;
+   background-color: #E3E1D9
+
+}
+
+
+.main-heading{
+    color: #0e172c;
+    font-family:cursive;
+    font-size: 60px;
+    text-align: center;
+    margin: 40px auto;
+   
+}
+
+.main-heading-btn{
+    color: #0e172c;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    border:solid 10px 10px 10px 10px;
+    
+    text-align: center;
+    
+}
+.btn{
+    background-color: #0e172c;
+    color: #fffffe;
+    margin: 0px 30px;
+    padding:12px 30px;
+    width: 150px;
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 40px;
+}
+.btn:hover{
+   
+    box-shadow: 0 0 5px 3px #a8a8a5;
+transition: 1sec;}
+
+.main-box{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-container{
+    padding:40px 30px;
+    display: inline-block;
+}
+
+.menu-cards{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    border: solid;
+    border-width: 3px;
+    border-color: rgb(5, 42, 43);
+    height: auto;
+    width: 250px;
+    border-radius: 10px 10px;
+    padding: 10px 15px;
+    text-align: center;
+    
+    
+   
+}
+.menu-cards:hover{
+    box-shadow: 0 0 5px 3px #a8a8a5;
+    transition: 1sec;
+}
+
+.menu-cards-images{
+   height: 170px;
+    margin: 20px 15px;
+ 
+
+}
+.menu-btn{
+    background-color: #0e172c;
+    color: #fffffe;
+    margin: 0px 5px;
+    padding:5px 10px;
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 40px;
+        }
+        .menu-card-para{
+            font-size: 15px;
+        }
+        .arrow-left{
+            position: relative;
+            left: 1390px;
+         
+         }
+
+.no-underline{
+    text-decoration: none;
+}
