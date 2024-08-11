@@ -66,7 +66,7 @@
 }
 .btn:hover{
    
-    box-shadow: 0 0 5px 3px #a8a8a5;
+    box-shadow: 0 0 5px 5px #a8a8a5;
 transition: 1sec;}
 
 .main-box{
@@ -99,7 +99,7 @@ transition: 1sec;}
    
 }
 .menu-cards:hover{
-    box-shadow: 0 0 5px 3px #a8a8a5;
+    box-shadow: 0 0 5px 5px #a8a8a5;
     transition: 1sec;
 }
 
