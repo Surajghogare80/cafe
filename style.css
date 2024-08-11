@@ -4,11 +4,8 @@
     background-color: #d3d3ce;
    
 }
-.container{
-    display: flex;
-   
 
-}
+
 .mainpage-icons{
     height: 40px;
     display: flex;
@@ -20,7 +17,7 @@
     margin-left: 15px;
     margin-right: 15px;
     position: relative;
-    right: 20px;
+    right: 60px;
 }
 
 .main-container{
@@ -28,6 +25,10 @@
     flex-direction: row;
     justify-content: space-evenly;
    border: solid;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 60px;
+   margin-right: 60px;
   
    background-color: #E3E1D9
 
@@ -39,10 +40,15 @@
     font-family:cursive;
     font-size: 60px;
     text-align: center;
-    margin:auto;
-   
 }
+.main-heading-login{
 
+    color: #0e172c;
+    font-family:cursive;
+    font-size: 60px;
+    text-align: center;
+    
+}
 .main-heading-btn{
     color: #0e172c;
     display: flex;
@@ -50,14 +56,13 @@
     justify-content: center;
     align-items:center;
     border:solid 10px 10px 10px 10px;
-    
     text-align: center;
     
 }
 .btn{
     background-color: #0e172c;
     color: #fffffe;
-    margin: 0px 30px;
+     margin: 20px;
     padding:12px 30px;
     width: 150px;
     text-align: center;
@@ -94,6 +99,7 @@ transition: 1sec;}
     border-radius: 10px 10px;
     padding: 10px 15px;
     text-align: center;
+    cursor: pointer;
     
     
    
@@ -119,6 +125,7 @@ transition: 1sec;}
     border-radius: 20px;
     cursor: pointer;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 40px;
+    cursor: pointer;
         }
     .menu-card-para{
             font-size: 15px;
@@ -129,6 +136,3 @@ transition: 1sec;}
          
          }
 
-.no-underline{
-    text-decoration: none;
-}
