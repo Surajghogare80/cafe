@@ -135,3 +135,11 @@ transition: 1sec;}
     text-align: center;
 
 }
+.footer-end {
+    display: block;
+    text-align: center;
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: #0e172c;
+    color: white;
+}
