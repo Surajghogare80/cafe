@@ -1,7 +1,7 @@
 .profile-container{
    
     width: 60px;
-    background-color: #d3d3ce;
+    background-color: white
    flex-wrap: wrap;
 }
 
@@ -21,19 +21,6 @@
     flex-wrap: wrap;
 }
 
-.main-container{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-   border: solid;
-   margin-top: 20px;
-   margin-bottom: 20px;
-   margin-left: 60px;
-   margin-right: 60px;
-  flex-wrap: wrap;
-   background-color: #E3E1D9
-
-}
 
 
 .main-heading-login{
@@ -86,10 +73,10 @@ transition: 1sec;}
 }
 
 .menu-cards{
-    background-color: white;
+    background-color:white;
     color: black;
     font-size: 20px;
-    border: solid;
+  
     border-width: 3px;
     border-color: rgb(5, 42, 43);
     height: auto;
@@ -109,8 +96,9 @@ transition: 1sec;}
 }
 
 .menu-cards-images{
-   height: 170px;
+   height:179px;
     margin: 20px 15px;
+    border-radius: 10px 10px;
  
 
 }
