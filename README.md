@@ -16,7 +16,7 @@
 
 - ## Homepage
 
-![Homepage](./img/Screenshot%20.png)
+![Homepage](./img/ss-index.png)
 
 [visit to Homepage](index.html)
 
@@ -24,7 +24,7 @@
 
 - ## Menu page
 
-![menupage](./img/menu-ss.png)
+![menupage](./img/ss-menu.png)
 
 [visit to menupage](./pages/menus.html)
 
@@ -32,6 +32,14 @@
 
 - ## Setting page
 
-![setting page](./img/setting-ss.png)
+![setting page](./img/ss-setting.png)
 
 [visit to setting page](./pages/setting.html)
+
+---
+
+- ## Login
+
+![Login page](./img/ss-login.png)
+
+[visit to login page](./pages/login.html)
